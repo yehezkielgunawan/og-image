@@ -151,7 +151,7 @@ const imageLightOptions: DropdownOption[] = [
   {
     text: "Koro Sensei",
     value:
-      "https://upload.wikimedia.org/wikipedia/commons/a/a9/Assassination_Classroom_-_Koro-sensei_smiling_head.svg",
+      "https://res.cloudinary.com/yehez/image/upload/v1630902976/Assassination_Classroom_-_Koro-sensei_smiling_head_fwpndi.svg",
   },
 ];
 
@@ -159,7 +159,7 @@ const imageDarkOptions: DropdownOption[] = [
   {
     text: "Koro Sensei",
     value:
-      "https://upload.wikimedia.org/wikipedia/commons/a/a9/Assassination_Classroom_-_Koro-sensei_smiling_head.svg",
+      "https://res.cloudinary.com/yehez/image/upload/v1630902976/Assassination_Classroom_-_Koro-sensei_smiling_head_fwpndi.svg",
   },
 ];
 
