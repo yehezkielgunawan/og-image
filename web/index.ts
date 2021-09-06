@@ -151,17 +151,7 @@ const imageLightOptions: DropdownOption[] = [
   {
     text: "Koro Sensei",
     value:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Assassination_Classroom_-_Koro-sensei_smiling_head.svg/950px-Assassination_Classroom_-_Koro-sensei_smiling_head.svg.png",
-  },
-  {
-    text: "Next.js",
-    value:
-      "https://assets.vercel.com/image/upload/front/assets/design/nextjs-black-logo.svg",
-  },
-  {
-    text: "Hyper",
-    value:
-      "https://assets.vercel.com/image/upload/front/assets/design/hyper-color-logo.svg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a9/Assassination_Classroom_-_Koro-sensei_smiling_head.svg",
   },
 ];
 
@@ -169,17 +159,7 @@ const imageDarkOptions: DropdownOption[] = [
   {
     text: "Koro Sensei",
     value:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Assassination_Classroom_-_Koro-sensei_smiling_head.svg/950px-Assassination_Classroom_-_Koro-sensei_smiling_head.svg.png",
-  },
-  {
-    text: "Next.js",
-    value:
-      "https://assets.vercel.com/image/upload/front/assets/design/nextjs-white-logo.svg",
-  },
-  {
-    text: "Hyper",
-    value:
-      "https://assets.vercel.com/image/upload/front/assets/design/hyper-bw-logo.svg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a9/Assassination_Classroom_-_Koro-sensei_smiling_head.svg",
   },
 ];
 
