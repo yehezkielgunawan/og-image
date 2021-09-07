@@ -153,10 +153,6 @@ const imageLightOptions: DropdownOption[] = [
     value:
       "https://res.cloudinary.com/yehez/image/upload/v1630902976/Assassination_Classroom_-_Koro-sensei_smiling_head_fwpndi.svg",
   },
-  {
-    text: "YG Logo",
-    value: "https://res.cloudinary.com/yehez/image/upload/v1630987481/YG_logo_trg6fp.png",
-  },
 ];
 
 const imageDarkOptions: DropdownOption[] = [
@@ -164,10 +160,6 @@ const imageDarkOptions: DropdownOption[] = [
     text: "Koro Sensei",
     value:
       "https://res.cloudinary.com/yehez/image/upload/v1630902976/Assassination_Classroom_-_Koro-sensei_smiling_head_fwpndi.svg",
-  },
-  {
-    text: "YG Logo",
-    value: "https://res.cloudinary.com/yehez/image/upload/v1630987481/YG_logo_trg6fp.png",
   },
 ];
 
