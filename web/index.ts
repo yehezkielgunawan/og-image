@@ -155,7 +155,7 @@ const imageLightOptions: DropdownOption[] = [
   },
   {
     text: "YG Logo",
-    value: "https://yehezgun.com/assets/YG_logo.png",
+    value: "https://res.cloudinary.com/yehez/image/upload/v1630987481/YG_logo_trg6fp.png",
   },
 ];
 
@@ -167,7 +167,7 @@ const imageDarkOptions: DropdownOption[] = [
   },
   {
     text: "YG Logo",
-    value: "https://yehezgun.com/assets/YG_logo.png",
+    value: "https://res.cloudinary.com/yehez/image/upload/v1630987481/YG_logo_trg6fp.png",
   },
 ];
 
