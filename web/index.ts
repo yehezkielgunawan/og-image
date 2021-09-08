@@ -167,7 +167,7 @@ const imageDarkOptions: DropdownOption[] = [
       "https://res.cloudinary.com/yehez/image/upload/v1630902976/Assassination_Classroom_-_Koro-sensei_smiling_head_fwpndi.svg",
   },
   {
-    text: "Koro Sensei",
+    text: "YG Logo",
     value:
       "https://res.cloudinary.com/yehez/image/upload/v1630987481/YG_logo_trg6fp.png",
   },
