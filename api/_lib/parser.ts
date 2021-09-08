@@ -56,17 +56,17 @@ function getArray(stringOrArray: string[] | string | undefined): string[] {
 function getDefaultImages(images: string[], theme: Theme): string[] {
   const defaultImage =
     theme === "light"
-      ? "https://upload.wikimedia.org/wikipedia/commons/a/a9/Assassination_Classroom_-_Koro-sensei_smiling_head.svg"
-      : "https://upload.wikimedia.org/wikipedia/commons/a/a9/Assassination_Classroom_-_Koro-sensei_smiling_head.svg";
+      ? "https://res.cloudinary.com/yehez/image/upload/v1630902976/Assassination_Classroom_-_Koro-sensei_smiling_head_fwpndi.svg"
+      : "https://res.cloudinary.com/yehez/image/upload/v1630902976/Assassination_Classroom_-_Koro-sensei_smiling_head_fwpndi.svg";
 
   if (!images || !images[0]) {
     return [defaultImage];
   }
-  if (
-    !images[0].startsWith("https://assets.vercel.com/") &&
-    !images[0].startsWith("https://assets.zeit.co/")
-  ) {
-    images[0] = defaultImage;
-  }
+  // if (
+  //   !images[0].startsWith("https://assets.vercel.com/") &&
+  //   !images[0].startsWith("https://assets.zeit.co/")
+  // ) {
+  //   images[0] = defaultImage;
+  // }
   return images;
 }
