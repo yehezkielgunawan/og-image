@@ -158,6 +158,11 @@ const imageLightOptions: DropdownOption[] = [
     value:
       "https://res.cloudinary.com/yehez/image/upload/v1630987481/YG_logo_trg6fp.png",
   },
+  {
+    text: "YG Avatar",
+    value:
+      "https://res.cloudinary.com/yehez/image/upload/v1631970666/yehez_avatar_vkv7pc.png",
+  },
 ];
 
 const imageDarkOptions: DropdownOption[] = [
@@ -170,6 +175,11 @@ const imageDarkOptions: DropdownOption[] = [
     text: "YG Logo",
     value:
       "https://res.cloudinary.com/yehez/image/upload/v1630987481/YG_logo_trg6fp.png",
+  },
+  {
+    text: "YG Avatar",
+    value:
+      "https://res.cloudinary.com/yehez/image/upload/v1631970666/yehez_avatar_vkv7pc.png",
   },
 ];
 
