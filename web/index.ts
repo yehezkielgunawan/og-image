@@ -190,7 +190,7 @@ const imageDarkOptions: DropdownOption[] = [
   {
     text: "Vercel",
     value:
-      "https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-black.svg",
+      "https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-white.svg",
   },
 ];
 
