@@ -169,6 +169,11 @@ const imageLightOptions: DropdownOption[] = [
     value:
       "https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-black.svg",
   },
+  {
+    text: "YG Colorful Avatar",
+    value:
+      "https://res.cloudinary.com/yehez/image/upload/v1634043457/yehez-avatar_u3q505.png",
+  },
 ];
 
 const imageDarkOptions: DropdownOption[] = [
@@ -191,6 +196,11 @@ const imageDarkOptions: DropdownOption[] = [
     text: "Vercel",
     value:
       "https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-white.svg",
+  },
+  {
+    text: "YG Colorful Avatar",
+    value:
+      "https://res.cloudinary.com/yehez/image/upload/v1634043457/yehez-avatar_u3q505.png",
   },
 ];
 
