@@ -177,7 +177,7 @@ const imageLightOptions: DropdownOption[] = [
   {
     text: "YG Notion Avatar",
     value:
-      "https://res.cloudinary.com/yehez/image/upload/v1636201364/peep_ndukpf.svg",
+      "https://res.cloudinary.com/yehez/image/upload/v1636202181/peep_amkhuu.svg",
   },
 ];
 
@@ -210,7 +210,7 @@ const imageDarkOptions: DropdownOption[] = [
   {
     text: "YG Notion Avatar",
     value:
-      "https://res.cloudinary.com/yehez/image/upload/v1636201364/peep_ndukpf.svg",
+      "https://res.cloudinary.com/yehez/image/upload/v1636202181/peep_amkhuu.svg",
   },
 ];
 
