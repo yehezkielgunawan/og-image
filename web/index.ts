@@ -174,6 +174,11 @@ const imageLightOptions: DropdownOption[] = [
     value:
       "https://res.cloudinary.com/yehez/image/upload/v1634043457/yehez-avatar_u3q505.png",
   },
+  {
+    text: "YG Notion Avatar",
+    value:
+      "https://res.cloudinary.com/yehez/image/upload/v1636201364/peep_ndukpf.svg",
+  },
 ];
 
 const imageDarkOptions: DropdownOption[] = [
@@ -201,6 +206,11 @@ const imageDarkOptions: DropdownOption[] = [
     text: "YG Colorful Avatar",
     value:
       "https://res.cloudinary.com/yehez/image/upload/v1634043457/yehez-avatar_u3q505.png",
+  },
+  {
+    text: "YG Notion Avatar",
+    value:
+      "https://res.cloudinary.com/yehez/image/upload/v1636201364/peep_ndukpf.svg",
   },
 ];
 
