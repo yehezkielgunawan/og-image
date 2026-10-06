@@ -241,10 +241,10 @@ locate-path@^5.0.0:
   dependencies:
     p-locate "^4.1.0"
 
-marked@2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/marked/-/marked-2.0.0.tgz#9662bbcb77ebbded0662a7be66ff929a8611cee5"
-  integrity sha512-NqRSh2+LlN2NInpqTQnS614Y/3NkVMFFU6sJlRFEpxJ/LHuK/qJECH7/fXZjk4VZstPW/Pevjil/VtSONsLc7Q==
+marked@18.1.0:
+  version "18.1.0"
+  resolved "https://registry.yarnpkg.com/marked/-/marked-18.1.0.tgz#16e3d81d9d92fbc5c5cb502e6c2aa065ca3490e9"
+  integrity sha512-PamYXWWWg2nboG3oX5Ffzpy3EFZROqZJK9hSlMmUnekp7TxPs5DcT95vwd46m73/exfKCRVMtgXoPMI4FEJL6w==
 
 minimatch@^3.0.4:
   version "3.0.4"
